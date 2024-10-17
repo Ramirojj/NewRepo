@@ -1,0 +1,15 @@
+/Users/ramirojaimes/NewRepository/A2/repossitory/obj/Debug/net8.0/repossitory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ramirojaimes/NewRepository/A2/repossitory/obj/Debug/net8.0/repossitory.AssemblyInfoInputs.cache
+/Users/ramirojaimes/NewRepository/A2/repossitory/obj/Debug/net8.0/repossitory.AssemblyInfo.cs
+/Users/ramirojaimes/NewRepository/A2/repossitory/obj/Debug/net8.0/repossitory.csproj.CoreCompileInputs.cache
+/Users/ramirojaimes/NewRepository/A2/repossitory/obj/Debug/net8.0/repossitory.sourcelink.json
+/Users/ramirojaimes/NewRepository/A2/repossitory/bin/Debug/net8.0/repossitory
+/Users/ramirojaimes/NewRepository/A2/repossitory/bin/Debug/net8.0/repossitory.deps.json
+/Users/ramirojaimes/NewRepository/A2/repossitory/bin/Debug/net8.0/repossitory.runtimeconfig.json
+/Users/ramirojaimes/NewRepository/A2/repossitory/bin/Debug/net8.0/repossitory.dll
+/Users/ramirojaimes/NewRepository/A2/repossitory/bin/Debug/net8.0/repossitory.pdb
+/Users/ramirojaimes/NewRepository/A2/repossitory/obj/Debug/net8.0/repossitory.dll
+/Users/ramirojaimes/NewRepository/A2/repossitory/obj/Debug/net8.0/refint/repossitory.dll
+/Users/ramirojaimes/NewRepository/A2/repossitory/obj/Debug/net8.0/repossitory.pdb
+/Users/ramirojaimes/NewRepository/A2/repossitory/obj/Debug/net8.0/repossitory.genruntimeconfig.cache
+/Users/ramirojaimes/NewRepository/A2/repossitory/obj/Debug/net8.0/ref/repossitory.dll
